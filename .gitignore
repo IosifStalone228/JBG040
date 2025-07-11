@@ -1,0 +1,9 @@
+.idea/
+local/
+JBG040-template.egg-info/
+data/
+model_weights/
+*.ipynb
+artifacts/
+.DS_store
+__pycache__/
